@@ -5,35 +5,35 @@
 
   @font-face {
     font-family: "qwi"; 
-    src: url("../fonts/Qwigley-Regular.ttf") format("truetype"); 
+    src: url("../fonts/Qwigley-Regularr.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
     } 
 
   @font-face {
     font-family: "har"; 
-    src: url("../fonts/Harmattan-Regular.ttf") format("truetype"); 
+    src: url("../fonts/Harmattan-Regularr.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
     }   
 
   @font-face {
     font-family: "nes"; 
-    src: url("../fonts/NesobriteScLt\ Regular.ttf") format("truetype"); 
+    src: url("../fonts/NesobriteScLt\ Regularr.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
     } 
 
   @font-face {
     font-family: "dmsI"; 
-    src: url("../fonts/DMSerifDisplay-Italic.ttf") format("truetype"); 
+    src: url("../fonts/DMSerifDisplay-Italicc.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
     } 
 
   @font-face {
     font-family: "dmsR"; 
-    src: url("../fonts/DMSerifDisplay-Regular.ttf") format("truetype"); 
+    src: url("../fonts/DMSerifDisplay-Regularr.ttf") format("truetype"); 
     font-style: normal; 
     font-weight: normal; 
     }
