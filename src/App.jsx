@@ -23,7 +23,8 @@ function App() {
               <Route path="/todo" element={<ToDo />} />
             </Route>
               <Route path="*" element={<Notfoundpage />} />
-          </Routes></div>
+          </Routes>
+        </div>
       </AuthProvider>
   )
 }

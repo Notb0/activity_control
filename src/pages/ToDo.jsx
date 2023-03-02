@@ -3,11 +3,8 @@ import Form from '../components/Form';
 import TodoS from '../components/TodoS';
 
 function ToDo() {
-
   const [tasks, setTasks] = useState([]);
-
   const [formInput, setFormInput] = useState('');
-
   const handleChange = (e) => {
     setFormInput(e.target.value)
   }

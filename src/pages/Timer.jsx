@@ -15,7 +15,6 @@ import React, {Component} from "react";
     this.addTime30 = this.addTime30.bind(this);
   } 
 
-  
   async addTime5() {
     await this.setState({minuts: this.state.minuts + 5});
     if(this.state.minuts > 59) {
@@ -72,8 +71,6 @@ import React, {Component} from "react";
       this.setState({hours: 0});
     }
   }
-
-
 
   async startStopTime() {
     await this.setState({startStopTime: !this.state.startStopTime});

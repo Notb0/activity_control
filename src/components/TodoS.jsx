@@ -24,4 +24,4 @@ const TodoS = (props) => {
     );
 }
 
-export default TodoS;
+export default TodoS

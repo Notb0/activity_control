@@ -47,17 +47,11 @@ class Clock extends Component {
           <hr className='hr'/>
           <div className='main_clock'>
             <div className='main_btn_clock'>
-              {/* <button className='btn_clock'>Rose</button>
-              <button className='btn_clock'>Light</button>
-              <button className='btn_clock'>Cofe</button>
-              <button className='btn_clock'>Dark</button>
-              <button className='btn_clock'>Classic</button> */}
             </div>
-              
               <div className='podlojka'>
-              <h1 id='h_clock' className={this.state.className}> {this.state.date.toLocaleTimeString()}</h1>
+                <h1 id='h_clock' className={this.state.className}> {this.state.date.toLocaleTimeString()}</h1>
               </div>
-              </div>
+                </div>
             <div className='main_full_screen'>
               <button onClick={() => this.fullScreen()} className='btn_full_screen'>full screen</button>
               <p className='p'>Make the time full screen so that no one distracts you and you can follow the time.</p>

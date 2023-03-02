@@ -167,8 +167,6 @@ main {
     color: rgba(255, 192, 203, 0.826);
   }
 
- 
-  
   :not(:root):fullscreen {
       display: flex;
       align-items: center;

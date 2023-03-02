@@ -9,6 +9,7 @@ export const AuthProvider = ({children}) => {
         setUser(newUser);
         cb();
     }
+    
     const signout = (cb) => {
         setUser(null);
         cb();
