@@ -10,7 +10,12 @@ The project was created to control your activity. It will help you focus on the 
 - [ ] 🪴Themes for the entire project, presumably three 
 - [x] 🧃 welcome words
 - [ ] 📒 Make a motivational quote generator at the click of a button on the home page
+- [ ] ⌨️ Fix bugs
 - [ ] 🎧 When the timer expires, a sound will be played
+- [ ] ⏱ Display the timer in full screen
+
+# Preview🖥
+![](Project2.gif)
 
 # Install❗️
 
@@ -22,3 +27,8 @@ npm install react
 ```
 npm start
 ```
+
+
+
+# ❗️BUGS❗️
+![](Project3.gif)
